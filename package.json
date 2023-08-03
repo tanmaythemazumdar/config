@@ -1,5 +1,5 @@
 {
-  "name": "base-config",
+  "name": "web-config",
   "version": "1.0.0",
   "description": "The base config of typescript, eslint, and prettier.",
   "keywords": [],
